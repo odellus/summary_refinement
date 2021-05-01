@@ -2,3 +2,4 @@ __pycache__
 models
 *.log
 *.db
+visualize_performance.html
