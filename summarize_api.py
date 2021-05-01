@@ -13,7 +13,7 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 from summary_db import SummaryDB
 
 logging.basicConfig(
-    filename='summary_scoring_api.log',
+    filename='summarize_api.log',
     level=logging.DEBUG
 )
 

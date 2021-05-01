@@ -13,7 +13,7 @@ from nltk.translate.meteor_score import meteor_score
 from summary_db import SummaryDB
 
 logging.basicConfig(
-    filename='summary_scoring_api.log',
+    filename='scoring_api.log',
     level=logging.DEBUG
 )
 logging.debug('This should go to the file!')
