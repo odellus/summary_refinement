@@ -1,0 +1,918 @@
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.97348690032959 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.9420294761657715 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.9558796882629395 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.990565538406372 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:31:02] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:31:59] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.970260143280029 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.929150819778442 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:32:40] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.008389949798584 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.041861295700073 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.999770641326904 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.958269119262695 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:34:48] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:47:10] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:47:13] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:48:34] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:48:35] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:48:35] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:root:
+
+    
+INFO:root:</s>
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:48:41] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [30/Apr/2021 23:48:50] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.982277154922485 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.011949777603149 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.965331554412842 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.971098899841309 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:23:38] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.985780954360962 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.027010917663574 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.962903022766113 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.918413162231445 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.992880344390869 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.068451881408691 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:35:04] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:36:20] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:36:20] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:36:21] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:36:21] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.97127103805542 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.020771265029907 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:39:32] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:39:35] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.998176336288452 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.973134517669678 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.213555097579956 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:44:16] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+DEBUG:root:This should go to the file!
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.025235414505005 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.957772254943848 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:
+
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 00:45:06] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summarize_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.067919015884399 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.970348358154297 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.016431570053101 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.959210634231567 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.944195985794067 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.033545732498169 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.957217216491699 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.025925636291504 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:20] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:23] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:23] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:38] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:38] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:38] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:39] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:39] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:46] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    
+INFO:root:</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:04:51] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:05:00] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:05:07] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:06:11] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:06:52] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:
+    Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:08:08] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:08:57] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:09:03] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:09:08] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:14:07] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:14:07] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:14:08] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:14:14] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:14:20] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/scoring_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/scoring_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:16:00] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:16:06] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:16:17] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:16:26] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:18:11] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:18:13] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:18:20] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:18:24] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:18:49] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:19:36] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:19:45] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:21:12] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:21:17] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:21:25] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:21:30] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:21:56] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:22:59] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:23:03] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:23:43] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:23:51] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:23:59] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:24:08] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:24:21] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.060532569885254 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.013971328735352 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.978843450546265 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.030588626861572 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.03866982460022 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.0052337646484375 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.00955057144165 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.999602794647217 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.959289789199829 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/scoring_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/scoring_api.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:47:24] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:47:32] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:47:36] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:47:47] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.036813259124756 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.0126824378967285 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.1016881465911865 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:49:32] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:49:39] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:49:44] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:49:59] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.626588344573975 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:51:00] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:51:05] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:51:07] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:51:26] "[35m[1mPOST /scoreupdate HTTP/1.1[0m" 500 -
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.087079286575317 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 4.995650291442871 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.06519079208374 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:53:15] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:53:16] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.021484613418579 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 4.997928142547607 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:55:51] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.975804805755615 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.1546783447265625 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.005066156387329 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:56:45] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:56:46] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:56:46] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:56:46] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:56:53] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/thomas/code/summary_scoring_api/summary_db.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.96691632270813 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+DEBUG:root:This should go to the file!
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root: * Model loaded in 5.01757550239563 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:07] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:10] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:18] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:19] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:29] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:38] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 01:58:53] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:02:39] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:03:04] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:10:39] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:10:48] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:10:51] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:10:56] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:root:Lorem ipsum
+    
+INFO:root:Lorem ipsum is the spokesman for the ipsum.</s>
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:11:14] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.\n\nMarx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]\n\nMarx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+    
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:11:23] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:11:30] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:22:44] "[35m[1mPOST /summarizer HTTP/1.1[0m" 500 -
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 5.014016389846802 seconds!
+INFO:werkzeug: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:This should go to the file!
+INFO:root: * Loading model...
+INFO:root:Model loaded from ./models/t5-small
+INFO:root: * Model loaded in 4.9531073570251465 seconds!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 146-503-881
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:24:01] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:24:31] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:24:31] "[33mPOST /scoreupdate HTTP/1.1[0m" 404 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:26:27] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:26:27] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -
+INFO:root:Karl Heinrich Marx (German: [maʁks]; 5 May 1818 – 14 March 1883[13]) was a German philosopher, economist, historian, sociologist, political theorist, journalist and socialist revolutionary. Born in Trier, Germany, Marx studied law and philosophy at university. He married Jenny von Westphalen in 1843. Due to his political publications, Marx became stateless and lived in exile with his wife and children in London for decades, where he continued to develop his thought in collaboration with German thinker Friedrich Engels and publish his writings, researching in the reading room of the British Museum. His best-known titles are the 1848 pamphlet The Communist Manifesto and the three-volume Das Kapital (1867–1883). Marx's political and philosophical thought had enormous influence on subsequent intellectual, economic and political history. His name has been used as an adjective, a noun, and a school of social theory.
+
+Marx's critical theories about society, economics, and politics, collectively understood as Marxism, hold that human societies develop through class conflict. In the capitalist mode of production, this manifests itself in the conflict between the ruling classes (known as the bourgeoisie) that control the means of production and the working classes (known as the proletariat) that enable these means by selling their labour-power in return for wages.[14] Employing a critical approach known as historical materialism, Marx predicted that capitalism produced internal tensions like previous socioeconomic systems and that those would lead to its self-destruction and replacement by a new system known as the socialist mode of production. For Marx, class antagonisms under capitalism, owing in part to its instability and crisis-prone nature, would eventuate the working class' development of class consciousness, leading to their conquest of political power and eventually the establishment of a classless, communist society constituted by a free association of producers.[15] Marx actively pressed for its implementation, arguing that the working class should carry out organised proletarian revolutionary action to topple capitalism and bring about socio-economic emancipation.[16]
+
+Marx has been described as one of the most influential figures in human history and his work has been both lauded and criticised.[17] His work in economics laid the basis for some current theories about labour and its relation to capital.[18][19][20] Many intellectuals, labour unions, artists and political parties worldwide have been influenced by Marx's work, with many modifying or adapting his ideas. Marx is typically cited as one of the principal architects of modern social science.[21][22]
+
+INFO:root:Marx was a german philosopher, economist, historian, political theorist, journalist and socialist
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:27:20] "[37mPOST /summarizer HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/May/2021 02:27:20] "[37mPOST /scoreupdate HTTP/1.1[0m" 200 -

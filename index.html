@@ -1,0 +1,78 @@
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Summary Scoring Agent</title>
+</head>
+<body>
+  <form name="SummarizeFullText" method="post">
+    <label for="FullText">Full Text:</label><br>
+    <textarea id="article" name="article" rows="16" cols="80">
+Lorem ipsum
+    </textarea><br>
+    <label for="ArticleId"> Article ID:</label><br>
+    <textarea id="article_id" name="article_id" rows="1" cols="80">
+25dgdj27d8
+    </textarea>
+    <input type="submit" value="Summarize">
+  </form>
+  <br><br>
+  <form name="UpdateSummary" method="post">
+    <label for="UpdateSummary">Update Summary:</label><br>
+    <textarea id="summary" name="summary" rows="5" cols="80">
+Latin
+    </textarea>
+    <input type="submit" value="Update">
+    <br><br>
+    <textarea id="scores" name="scores" rows="5" cols="80">
+Rouge and Meteor Scores
+    </textarea>
+  </form>
+</body>
+<script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+<script>
+  $(document).ready(function(){
+    $('[name="SummarizeFullText"]').click(function(e)
+    {
+      var Article = JSON.stringify({
+        article: $("#article").serialize(),
+        article_id: $("#article_id").serialize()
+      });
+      console.log(Article);
+      $.ajax({
+        url: "http://127.0.0.1:5001/summarizer",
+        type: "POST",
+        dataType: "json",
+        data: Article,
+        success:function(response)
+        {
+          var str = JSON.stringify(response.summary);
+          console.log(str);
+          $('#summary').html(str.slice(1, -1));
+        }
+      });
+      e.preventDefault();
+   });
+   $('[name="UpdateSummary"]').click(function(e)
+   {
+     var UpdatedSummary = JSON.stringify({
+       summary:$("#summary").serialize(),
+       article_id: $("#article_id").serialize()
+     });
+     console.log(UpdatedSummary);
+     $.ajax({
+       url: "http://127.0.0.1:5002/scoreupdate",
+       type: "POST",
+       dataType: "json",
+       data: UpdatedSummary,
+       success:function(reponse)
+       {
+         var str = JSON.stringify(reponse)
+         console.log(str);
+         $('#scores').html(str);
+       }
+     });
+     e.preventDefault();
+   });
+  });
+</script>
+</html>
